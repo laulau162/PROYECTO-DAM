@@ -1,0 +1,109 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-may-2022, 0:51:56
+    Author     : Laura
+*/
+body{
+    font-family: 'Playfair Display';
+}
+
+.navlink{
+color: black;
+}
+.navlink:hover{
+    color: blue;
+    text-shadow: 2em;
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;   
+}
+#iconoCuenta{
+    
+    height:2px;
+    width: 2px;
+ 
+}
+
+#SobreMi{
+    background-color: black;
+    color: white;
+}
+#img1{
+    height: 400px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img2{
+    height: 400px;
+    width: 300px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#img3 {
+    height: 400px;
+    width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#img12{
+    height: 350px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;}
+
+#img22{
+    height: 350px;
+    width: 300px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 8px;}
+
+#img32{
+    height: 350px;
+    width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 8px;
+}
+#img1C{
+    height: 400px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    float:none;
+	text-align:center;
+  
+}
+#Info{
+    background-color: black; 
+    color: white;
+}
+textarea{
+   justify-items: center; 
+
+}
+#Contacto{
+    background-color: black;
+    color: white;
+}
+#CONTACT{
+    justify-items: center;
+}
+
